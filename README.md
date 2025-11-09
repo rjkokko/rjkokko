@@ -1,1 +1,3 @@
-<img src="logo.png" width="25%" style="display: flex; flex-direction: row; justify-content: center;">
+<div style="text-align:center">
+<img src="logo.png" width="25%"/>
+</div>
